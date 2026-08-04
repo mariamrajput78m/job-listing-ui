@@ -1,16 +1,136 @@
-# React + Vite
+# 💼 Job Listing UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Job Listing UI** built with **React** and **Vite**. This project showcases reusable React components, dynamic rendering using **props** and **map()**, and a clean, user-friendly interface for displaying job opportunities.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 Preview
 
-## React Compiler
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/4824e0b8-2da3-4664-aeb2-cc8357700657" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 💼 Beautiful Job Listing Cards
+- ⚛️ Built with React + Vite
+- 🔁 Reusable Card Component
+- 📦 Dynamic Data Rendering using `map()`
+- 🎯 Props for Passing Data
+- 🔖 Save Button with Icon
+- 📱 Responsive Layout
+- 🎨 Clean & Modern UI
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS3
+- HTML5
+- Lucide React Icons
+
+---
+
+## 📂 Project Structure
+
+```text
+job-listing-ui
+│── public/
+│── src/
+│   ├── component/
+│   │   └── Card.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/mariamrajput78m/job-listing-ui.git
+```
+
+### Navigate to the Project
+
+```bash
+cd job-listing-ui
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📖 What I Learned
+
+While building this project, I practiced:
+
+- React Components
+- Reusable Components
+- Props
+- Array Mapping using `map()`
+- JSX
+- Rendering Dynamic Data
+- Project Structure in React
+
+---
+
+## 🌟 Future Improvements
+
+- 🔍 Search Jobs
+- 🎯 Job Filters
+- ❤️ Save Favorite Jobs
+- 🌙 Dark Mode
+- 📄 Job Details Page
+- 📱 Better Mobile Experience
+
+---
+
+## 🤝 Contributing
+
+Contributions, ideas, and suggestions are always welcome.
+
+Feel free to fork this repository and submit a pull request.
+
+---
+
+## 👩‍💻 Author
+
+**Mariam Rajput**
+
+- GitHub: https://github.com/mariamrajput78m
+- link: http://localhost:5173/
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to **⭐ Star** the repository.
+
+It motivates me to build more amazing React projects.
+
+---
+
+### Made with ❤️ using React & Vite
