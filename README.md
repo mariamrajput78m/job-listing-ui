@@ -121,7 +121,7 @@ Feel free to fork this repository and submit a pull request.
 **Mariam Rajput**
 
 - GitHub: https://github.com/mariamrajput78m
-- link: http://localhost:5173/
+- link: (http://localhost:5173/)
 
 ---
 
