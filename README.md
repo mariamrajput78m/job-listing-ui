@@ -6,9 +6,8 @@ A modern and responsive **Job Listing UI** built with **React** and **Vite**. Th
 
 ## 📸 Preview
 
-> Add your project screenshot here.
+<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/781e4501-eccc-4e01-a155-6cae196e7de2" />
 
-![Project Preview](./preview.png)
 
 ---
 
